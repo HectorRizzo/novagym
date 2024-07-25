@@ -3,7 +3,10 @@ import { CarouselComponent } from "ngx-bootstrap/carousel";
 import noUiSlider from "nouislider";
 // import Swiper bundle with all modules installed
 // core version + navigation, pagination modules:
-import Swiper from 'swiper/swiper-bundle';
+// import Swiper JS
+import Swiper from 'swiper';
+
+
 
 // Instala css do swiper
 @Component({
